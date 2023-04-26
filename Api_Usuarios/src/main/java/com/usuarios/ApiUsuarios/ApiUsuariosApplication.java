@@ -1,13 +1,13 @@
-package com.intranet.usuarios;
+package com.usuarios.ApiUsuarios;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IntranetUsuariosApplication {
+public class ApiUsuariosApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IntranetUsuariosApplication.class, args);
+		SpringApplication.run(ApiUsuariosApplication.class, args);
 	}
 
 }
