@@ -1,21 +1,24 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10528204&assignment_repo_type=AssignmentRepo)
-API-USUARIOS
------------------------------------------------------------------------------------------------------------------
+<strong>API USUARIOS - INTRANET</strong>
+<hr>
+Nuestro grupo a creado una api usuarios para el registro de los alumnos y docentes, donde cada uno tendra su usuario propio para entrar a la intranet.
 
-TECNOLOGIAS UTILIZADAS:
---------------------------
-|Netbeans 16 o superior  |
-| Xampp version superior |
-| Java jdk 18.0.1        |
-| Framework Spring Boot  |
-| HeidySQL (MariaDB)     |
-| Postaman(PRUEBA DE API)|
+###Tecnologias Utilizadas
+                    
+Programa  | Version
+------------- | -------------
+Netbeans  | 16
+Xampp  | 8.1.17
+Java jdk  | 18.0.1
+Spring Boot plugin | 3.1 
+HeidySQL  | 12.4
+Postman  | Ultima 
 
-DEPENDENCIAS:
-----------------------------------------
-| Spring Web                           |
-| Spring JPA                           |
-| Lombok (nos permite ahorrar codigo)  |
-| Spring Security                      |
-| MySQL Driver                         |
+###Dependencias
+| Dependencias  | 
+| ------------- |
+|Spring Web 
+|Spring JPA  
+|Lombok  
+|MySQL Driver
+|Spring Boot Devtools
 
