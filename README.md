@@ -2,8 +2,9 @@ API USUARIOS- INTRANET
 <hr>
 Nuestro grupo a creado una api usuarios para el registro de los alumnos y docentes, donde cada uno tendra su usuario propio para entrar a la intranet.
 
+
 Tecnologias Utilizadas
-                    
+<hr>                    
 Programa  | Version
 ------------- | -------------
 Netbeans  | 16
@@ -13,6 +14,7 @@ Spring Boot plugin | 3.1
 HeidySQL  | 12.4
 Postman  | Ultima 
 
+<hr>
 Dependencias
 | Dependencias  | 
 | ------------- |
