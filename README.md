@@ -25,12 +25,12 @@ Dependencias
 |Spring Boot Devtools
 
 <hr>
-DOCKER HUB
+<h1>DOCKER HUB</h1><br>
 
-PRIMER PASO:
-docker pull renatochm/api-usuarios
+PRIMER PASO:<br>
+docker pull renatochm/api-usuarios<br>
 
-SEGUNDO PASO:
+SEGUNDO PASO:<br>
 docker run --name apiusuarios -p 8090:8090 renatochm/api-usuarios
 
 
