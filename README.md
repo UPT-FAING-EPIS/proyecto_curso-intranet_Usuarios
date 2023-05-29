@@ -24,3 +24,14 @@ Dependencias
 |MySQL Driver
 |Spring Boot Devtools
 
+<hr>
+DOCKER HUB
+
+PRIMER PASO:
+docker pull renatochm/api-usuarios
+
+SEGUNDO PASO:
+docker run --name apiusuarios -p 8090:8090 renatochm/api-usuarios
+
+
+
