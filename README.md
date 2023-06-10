@@ -1,6 +1,6 @@
 <h1>API USUARIOS-MONGODB</h1>
 <hr>
-Nuestro grupo a creado una api usuarios para el registro de los alumnos y docentes, donde cada uno tendra su usuario propio para entrar a la intranet.
+Nuestro grupo a adaptado una api usuarios para usar con MongoDB para el registro de los alumnos y docentes, donde cada uno tendra su usuario propio para entrar a la intranet.
 
 
 <h1>Tecnologias Utilizadas </h1>
